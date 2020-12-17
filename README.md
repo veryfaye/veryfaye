@@ -20,3 +20,4 @@ Please click <a href="https://veryfaye.github.io/ResponsivePortfolio/">here</a> 
 
 #### Very Unfamiliar
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
