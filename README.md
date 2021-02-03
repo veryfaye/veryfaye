@@ -2,9 +2,9 @@
 
 I'm Amanda LeMoine, and I am a student enrolled in the University of California, San Diego Extension's Coding Bootcamp. Feel free to reach out to me at <a href="mailto:amandalemoine2021@gmail.com">amandalemoine2021@gmail.com</a>!
 
-Please click <a href="https://veryfaye.github.io/ResponsivePortfolio/">here</a> to view my Portfolio:
+Please click <a href="https://veryfaye.github.io/ResponsivePortfolio/">here</a> to view my Portfolio.
 
-Please click <a href="https://veryfaye.github.io/ResponsivePortfolio/">here</a> to view my LinkedIn profile:
+Please click <a href="https://veryfaye.github.io/ResponsivePortfolio/">here</a> to view my LinkedIn profile.
 
 ### I am currently familiar with the following:
 
